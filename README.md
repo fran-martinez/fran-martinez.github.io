@@ -12,10 +12,6 @@ Contact: http://htmlcoder.me/contact
 
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 
-Demo images
-------------------------------------------------------
-Unsplash by Crew - http://unsplash.com/
-
 Fonts
 ------------------------------------------------------
 Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
