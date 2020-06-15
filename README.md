@@ -1,4 +1,4 @@
-# My personal website: fran-martinez.github.io
+# My personal website
 
 This webpage has been created based on a Worhty template. Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
 
